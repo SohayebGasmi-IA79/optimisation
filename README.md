@@ -641,10 +641,5 @@ print("Compteurs :", result["cnt"])
 
 - normalisation des données et séparation train/validation/test.
 
-## Licence et usage
 
-Ce dépôt est destiné à un usage pédagogique. Vérifier les conditions de redistribution des jeux de données externes avant de publier les fichiers bruts avec le code.
-
-<div align="center">
-<sub>Projet pédagogique — optimisation numérique implémentée avec NumPy.</sub>
 </div>
